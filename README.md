@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @jyotiprajapati98
-- 👀 I’m interested in web and app development
+- 👀 I’m interested in Web and App development
+- Skills are: Programming languages- Java, C++/C, Python
+- Platforms - Android Studio, Latex, Google Colab
+- Web developemnt- HTML, CSS, JavaScript, React Js
 - 🌱 I’m currently learning deep learning and computer vision concepts using python
 - 💞️ I’m looking to collaborate on programming, DL projects, and computer vision based repo
 - 📫 How to reach me jyotipp98@gmail.com is my mailid
